@@ -1,7 +1,7 @@
 # PassGenPythonDjangoBootstrap
 Simple password generator made with Python, Django and Bootstrap
 
-This exersise was made as part of the Pyton+Django course.
+This exersise was made as part of the Pyton+Django course on O'Reilly learning portal.
 
 Used versions:<br>
 Python 3.10<br>
