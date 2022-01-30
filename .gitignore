@@ -1,2 +1,3 @@
 /Pipfile.lock
 /Pipfile
+/pass_gen_project/pass_gen/DjangoSecretKey.py
